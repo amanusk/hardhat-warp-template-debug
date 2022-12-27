@@ -4,7 +4,7 @@ Have the latest `develop` of `warp`
 
 `yarn` and `yarn build` `warp`
 
-Have the latest `warp-compile` branch of `hardhat-warp`
+Have the latest `template` branch of `hardhat-warp`
 
 Update the path to `venv` in `hardhat-warp/src/utils.ts`
 
